@@ -571,6 +571,12 @@
     ]
   },
   {
+    "type": "gothub",
+    "test_url": "/undertale/wiki/Hot_Dog...%3F",
+    "fallback": "https://gothub.projectsegfau.lt",
+    "instances": []
+  },
+  {
     "type": "anonymousoverflow",
     "test_url": "/questions/6591213/how-do-i-rename-a-local-git-branch",
     "fallback": "https://code.whatever.social",
